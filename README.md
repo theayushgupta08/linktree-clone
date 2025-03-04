@@ -21,7 +21,7 @@ During this project, I learned:
 - **Database:** MongoDB
 
 ## 📸 Project Visuals
-![Linktree Clone Preview]([https://via.placeholder.com/800x400.png?text=Project+Preview](https://github.com/theayushgupta08/linktree-clone/public/linktreeclone.png))
+![Linktree Clone Preview](./public/linktreeclone.png)
 
 ## ⚙️ How to Run Locally
 
